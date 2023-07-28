@@ -1,0 +1,29 @@
+div {
+    background-color: rgb(231, 75, 75);
+    width: 300px;
+    height: 500px;
+    display: grid;
+    border: solid 5px;
+    padding: 18px;
+    margin-left: 570px;
+    margin-top: 130px;
+    grid-template-columns: auto auto auto auto;
+    row-gap: 10px;
+    column-gap: 10px;
+}
+.inputbox{
+    grid-column-start: 1;
+    grid-column-end:   5;
+}
+body{
+    background-color: bisque;
+    background-image: url('./space-sky-star-cosmic-night-58-1366x768.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;   
+}
+.pls{
+    grid-column-start: 4;
+    grid-row-start: 5;
+    grid-row-end: 7;
+}

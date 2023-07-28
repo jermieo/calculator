@@ -1,0 +1,363 @@
+body{
+    background-image: url('./HD-wallpaper-sky-star-light-dark-design-s.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body>div{
+    background-color: rgb(9, 10, 10);
+    margin-top: 180px;
+    margin-left: 550px;
+    width: 333px;
+    height: 310px;
+    border-radius: 20px;
+    padding: 10px;
+    border: 10px solid rgb(239, 66, 8);
+}
+
+/* INPUT BOX */
+.inputbox{
+    width: 297px;
+    height: 40px;
+    border-radius: 10px;
+    border: 5px groove black;
+    margin-left: 10px;
+}
+
+/* first ROW */
+/* .row1>.clear{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row1>.modulus{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row1>.mu{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row1>.division{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+
+/* ROW-2 */
+/* .row2>.seven{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row2>.eight{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row2>.nine{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row2>.star{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+
+/* row-3 */
+/* .row3>.four{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row3>.five{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row3>.six{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row3>.mines{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+
+/* ROW-4 */
+/* .row4>.one{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row4>.two{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+/* .row4>.three{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.row4>.pls{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: brown;
+    flex-direction: column;
+    flex-grow: 10px;
+
+} */
+
+/* ROW-5 */
+
+/* .row5>.zero{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.row5>.dot{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.row5>.equal{
+    width: 60px;
+    height:40px;
+    margin: 10px;
+    border-radius: 10px;
+} */
+
+
+.row1{
+    display: flex;
+    justify-content:space-around; 
+}
+.clear{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-right: 10px;
+
+}
+.modulus{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+.mu{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+.division{
+
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-right: 10px;
+
+}
+/* row-2 */
+.row2{
+    display: flex;
+    justify-content:space-around;
+    padding: 14;
+}
+
+.seven{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+.eight{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-right: 10px;
+
+}
+
+.nine{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-right: 10px;
+
+}
+
+.star{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+/* row-3 */
+.row3{
+    display: flex;
+    justify-content:space-around;
+}
+
+.four{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.five{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.six{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.mines{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+
+/* row-4 */
+
+
+
+.row4{
+    display: flex;
+    justify-content:space-around;
+}
+
+.one{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.two{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.three{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.pls{
+    display: flex;
+    /* flex-direction: column; */
+    flex-basis: 50px;
+    height: 100px;
+    border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    background-color: aqua;
+    padding: 10px;
+}
+
+
+
+.row5{
+    display: flex;
+}
+
+.zero{
+    flex-basis: 50px;
+    height: 40px;
+    border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    position: relative;
+    bottom:  55px;
+    left: 15px;
+    
+}
+.dot{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    position: relative;
+    bottom:  55px;
+    left: 48px;
+}
+.equal{
+    flex-basis: 50px;
+    height: 40px;
+     border: 5px solid rgb(97, 4, 203);
+    border-radius: 20px;
+    margin-top: 10px;
+    position: relative;
+    bottom:  55px;
+    left: 83px;
+}
+
+
+
+
+
+
+
+
+
